@@ -1,6 +1,6 @@
 # epub_reader
 
-> A Vue.js project
+> 一个简单的web阅读器基于epubjs实现，可以实现阅读的基本功能如翻页目录设置字号背景等以及可以打开本地的epub电子书
 
 ## Build Setup
 
